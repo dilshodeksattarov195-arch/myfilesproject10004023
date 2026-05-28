@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configrave",
+        "uuid": 22790295,
+        "checksum": "92usli"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
